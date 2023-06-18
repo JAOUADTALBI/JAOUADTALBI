@@ -44,7 +44,10 @@ I'm a Penetration Testing 🎓 from Morocco! 🏛. I'm a passionate learner who'
   <img align="center" alt="Rafa-Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg">
 </div>
 
+
+
 <img align="right" height="260" width="400" alt="" src="https://github.com/JAOUADTALBI/JAOUADTALBI/blob/main/giphy.gif" />
+
 
 ### My Absolute Favorites:
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
