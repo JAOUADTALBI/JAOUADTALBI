@@ -36,6 +36,14 @@ I'm a Penetration Testing 🎓 from Morocco! 🏛. I'm a passionate learner who'
   <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg">
 </div>
 
 <img align="right" height="290" width="410" alt="" src="https://github.com/JAOUADTALBI/GOLSKY/blob/main/giphy.gif" />
